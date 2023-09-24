@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgorhawk_com=self.webpackChunkgorhawk_com||[]).push([[691],{7200:function(e,l,t){t.r(l),t.d(l,{Head:function(){return a}});var n=t(7294);l.default=()=>n.createElement("main",null,n.createElement("title",null,"Gorhawk.com"),n.createElement("h1",null,"Gorhawk.com"),n.createElement("p",null,"It works!"),n.createElement("p",null,"Hello world!"),n.createElement("p",null,"It's alive"));const a=()=>n.createElement("title",null,"Home Page")}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-ced6b276519e8cb8736e.js.map
